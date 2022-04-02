@@ -336,6 +336,10 @@
     [
       "fa0b70f0-dacd-46ef-9ee4-4bfb56a8b666",
       "analog"
+    ],
+    [
+      "af8e0afb-557a-4f80-ac23-e44bca8fa829",
+      "current_input"
     ]
   ],
   "text_variables": {}

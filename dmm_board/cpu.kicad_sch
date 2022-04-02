@@ -437,7 +437,7 @@
 
   (no_connect (at 110.49 76.2) (uuid 1da235dd-2a6e-4b9b-a5ea-6128558d0525))
   (no_connect (at 110.49 58.42) (uuid afd56ca9-88da-4912-a881-08e684d5bce4))
-  (no_connect (at 110.49 63.5) (uuid afd56ca9-88da-4912-a881-08e684d5bce4))
+  (no_connect (at 110.49 63.5) (uuid afd56ca9-88da-4912-a881-08e684d5bce5))
   (no_connect (at 110.49 50.8) (uuid c864e824-0874-462b-90c2-4347018c8091))
 
   (bus_entry (at 120.015 83.82) (size 2.54 -2.54)
@@ -446,7 +446,7 @@
   )
   (bus_entry (at 120.015 86.36) (size 2.54 -2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 8192dcc5-7cfe-41a6-933d-3a991c63f549)
+    (uuid 8192dcc5-7cfe-41a6-933d-3a991c63f54a)
   )
   (bus_entry (at 120.015 71.12) (size 2.54 -2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
