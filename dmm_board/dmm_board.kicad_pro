@@ -320,6 +320,22 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "b5cf6868-bacf-42f9-8283-20b9d73d64c1",
+      "ethernet"
+    ],
+    [
+      "dfa2750d-cd29-4922-b763-c368b5d1ff10",
+      "cpu"
+    ],
+    [
+      "859962bf-6c9a-4825-8f29-68a98f82b5a8",
+      "power_mech"
+    ],
+    [
+      "fa0b70f0-dacd-46ef-9ee4-4bfb56a8b666",
+      "analog"
     ]
   ],
   "text_variables": {}
